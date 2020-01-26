@@ -3,7 +3,7 @@ Name of Student: Matthew Brazill | Student Number: 20085594 | Name of Programm: 
 
 ----!!IMPORTANT!!---- This program uses the processing.sound library and will show errors acordingly if it is not there.
 
-The Program is about Rexy the T-Rex. He is lost and supposed to return to his family. To do so you have to help him not 
+The Program is about Rexy the T-Rex. He is lost and supposed to return to his family. To do so, you have to help him not 
 get caught or fall. Can you get Rexy home? The controlls are simple:
   - Forward: Right Arrow; d
   - Backward: Left Arrow; a
